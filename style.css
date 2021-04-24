@@ -1,0 +1,33 @@
+body{
+    background: url("img/space-background.jpg") no-repeat center center fixed;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+}
+h1{
+    padding-left: 50px;
+    padding-top: 50px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+footer{
+    text-align: center;
+    position: relative;
+    bottom: 0px;
+}
+.about-text{
+    color: white;
+    padding-left: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+.first-name{
+    color: #fff;
+}
+h2{
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-top: 40px;
+}
+.fab{
+    color: #4267B2;
+}
